@@ -233,6 +233,10 @@
             "type": "PubHalls"
         },	
         {
+            "name": "IvyLin",
+            "type": "PubHalls"
+        },			
+        {
             "name": "RedDragoni",
             "type": "PubHalls"
         },		
@@ -524,6 +528,10 @@
             "name": "Miistar",
             "type": "RealmSlayers"
         },	
+		{
+            "name": "Madgoblin",
+            "type": "RealmSlayers"
+        },			
 		{
             "name": "Rapti",
             "type": "RealmSlayers"

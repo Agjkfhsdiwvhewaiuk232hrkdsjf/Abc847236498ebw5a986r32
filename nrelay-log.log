@@ -1,0 +1,50 @@
+Log Start (time: 1532519735735)
+MESSAGE [13:55:35 | NRelay]           Starting...
+INFO    [13:55:35 | NRelay]           Checking for updates...
+INFO    [13:55:36 | NRelay]           Adding Main Client
+INFO    [13:55:36 | ResourceManager]  Loaded 1283 tiles.
+INFO    [13:55:36 | ResourceManager]  Loaded 8336 objects.
+INFO    [13:55:36 | PluginManager]    Loaded Hello Plugin by tcrane
+INFO    [13:55:37 | PluginManager]    Loaded Key Notifier by Lolization
+INFO    [13:55:37 | PluginManager]    Loaded Player Tracker by tcrane
+INFO    [13:55:37 | PluginManager]    Loaded RealmTrack by Fluttar
+SUCCESS [13:55:37 | Player Tracker]   Enabled tracking for all clients.
+MESSAGE [13:55:37 | Unhandled Rejection]at: [object Promise] reason: Error: An invalid token was provided.
+MESSAGE [13:55:37 | Unhandled Rejection]at: [object Promise] reason: Error: An invalid token was provided.
+INFO    [13:55:37 | NRelay]           Adding Secondary Client
+INFO    [13:55:37 | NRelay]           Adding Third Client
+INFO    [13:55:38 | NRelay]           Adding Fourth Client
+INFO    [13:55:39 | Main Client]      Starting connection to USWest3
+SUCCESS [13:55:39 | NRelay]           Authorized Main Client
+INFO    [13:55:39 | Secondary Client] Starting connection to USWest
+SUCCESS [13:55:39 | NRelay]           Authorized Secondary Client
+INFO    [13:55:39 | Third Client]     Starting connection to USSouthWest
+SUCCESS [13:55:39 | NRelay]           Authorized Third Client
+SUCCESS [13:55:39 | Main Client]      Connected to USWest3!
+SUCCESS [13:55:39 | Secondary Client] Connected to USWest!
+SUCCESS [13:55:39 | Third Client]     Connected to USSouthWest!
+INFO    [13:55:39 | Main Client]      Connecting to Nexus
+INFO    [13:55:39 | Secondary Client] Connecting to Nexus
+INFO    [13:55:39 | Third Client]     Connecting to Nexus
+INFO    [13:55:39 | Fourth Client]    Starting connection to USSouth3
+SUCCESS [13:55:39 | NRelay]           Authorized Fourth Client
+INFO    [13:55:39 | NRelay]           Adding Fifth Client
+SUCCESS [13:55:40 | Fourth Client]    Connected to USSouth3!
+SUCCESS [13:55:40 | Main Client]      Connected!
+INFO    [13:55:40 | Fourth Client]    Connecting to Nexus
+SUCCESS [13:55:40 | Secondary Client] Connected!
+SUCCESS [13:55:40 | Third Client]     Connected!
+INFO    [13:55:40 | NRelay]           Adding Sixth Client
+INFO    [13:55:41 | Fifth Client]     Starting connection to USSouth2
+SUCCESS [13:55:41 | NRelay]           Authorized Fifth Client
+SUCCESS [13:55:41 | Fifth Client]     Connected to USSouth2!
+SUCCESS [13:55:41 | Fourth Client]    Connected!
+INFO    [13:55:41 | Fifth Client]     Connecting to Nexus
+INFO    [13:55:41 | NRelay]           Adding Seventh Client
+INFO    [13:55:42 | Sixth Client]     Starting connection to USSouth
+SUCCESS [13:55:42 | NRelay]           Authorized Sixth Client
+SUCCESS [13:55:42 | Sixth Client]     Connected to USSouth!
+SUCCESS [13:55:42 | Fifth Client]     Connected!
+WARNING [13:55:42 | PluginManager]    Error while calling UPDATE hook on PlayerTracker
+INFO    [13:55:42 | PluginManager]    TypeError: Cannot read property 'send' of undefined
+INFO    [13:55:42 | Sixth Client]     Connecting to Nexus

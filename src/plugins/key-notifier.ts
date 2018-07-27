@@ -36,7 +36,7 @@ class KeyNotifier {
         if (!this.ready) {
             return;
         }
-        (this.bot.channels.get("470666697196568596") as Discord.TextChannel)
+        (this.bot.channels.get("472323387851669519") as Discord.TextChannel)
         .send(`${name} opened by ${opener} in ${server.name}`)
         .then((msg: Discord.Message) => {
             setTimeout(() => {

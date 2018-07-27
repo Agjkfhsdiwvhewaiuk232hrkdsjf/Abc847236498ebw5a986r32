@@ -5,6 +5,10 @@
             "type": "LHZ"
         },	
         {
+            "name": "TapN",
+            "type": "LHZ"
+        },			
+        {
             "name": "Gorlami",
             "type": "LHZ"
         },			
@@ -50,7 +54,7 @@
         },	
         {
             "name": "Vincent",
-            "type": "LHZ"
+            "type": "LHZ/PeachShatters"
         },	
         {
             "name": "Iowa",
@@ -118,7 +122,7 @@
         },	
         {
             "name": "KanzenSain",
-            "type": "LHZ"
+            "type": "LHZ/PeachShatters"
         },	
         {
             "name": "Powered",
@@ -314,7 +318,7 @@
         },	
         {
             "name": "Sceptor",
-            "type": "PubHalls/EDZ"
+            "type": "EDZ"
         },	
         {
             "name": "Tedbeans",
@@ -337,13 +341,41 @@
             "type": "EDZ"
         },	
         {
+            "name": "Uhgthis",
+            "type": "EDZ"
+        },
+        {
             "name": "Zombhee",
             "type": "EDZ"
+        },		
+        {
+            "name": "MadPeach",
+            "type": "PeachOwner"
         },			
         {
             "name": "Gyron",
             "type": "PeachShatters/EDZ"
         },	
+        {
+            "name": "Iodestar",
+            "type": "PeachShatters"
+        },	
+        {
+            "name": "Jobiebros",
+            "type": "PeachShatters"
+        },	
+        {
+            "name": "Teatotal",
+            "type": "PeachShatters"
+        },	
+        {
+            "name": "Iodestar",
+            "type": "PeachShatters"
+        },	
+        {
+            "name": "F",
+            "type": "PeachShatters"
+        },			
         {
             "name": "Kaysie",
             "type": "PeachShatters/EDZ"

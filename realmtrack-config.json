@@ -98,7 +98,7 @@
         },	
         {
             "name": "Coach",
-            "type": "LHZ/RealmSlayers"
+            "type": "LHZ/RealmSlayers/SBC"
         },	
         {
             "name": "Cubby",
@@ -149,6 +149,10 @@
             "type": "PubHalls"
         },	
         {
+            "name": "Attacksome",
+            "type": "PubHalls"
+        },			
+        {
             "name": "Gyohwalhan",
             "type": "PubHalls/Shatters"
         },	
@@ -162,7 +166,7 @@
         },	
         {
             "name": "IDontHate",
-            "type": "PubHalls"
+            "type": "PubHalls/RealmSlayers"
         },
         {		
             "name": "Leecherr",
@@ -251,7 +255,19 @@
         {
             "name": "Shengkia",
             "type": "PubHalls"
-        },	
+        },
+        {
+            "name": "CFlare",
+            "type": "PubHalls"
+        },
+        {
+            "name": "Shengkia",
+            "type": "PubHalls"
+        },
+        {
+            "name": "Shengkia",
+            "type": "PubHalls"
+        },		
         {
             "name": "Steaktato",
             "type": "PubHalls"
@@ -318,7 +334,7 @@
         },	
         {
             "name": "Sceptor",
-            "type": "EDZ"
+            "type": "EDZ/Pubhalls"
         },	
         {
             "name": "Tedbeans",
@@ -449,19 +465,19 @@
             "type": "PeachShatters"
         },			
         {
+            "name": "Baanana",
+            "type": "SBC"
+        },	
+        {
+            "name": "Excalibur",
+            "type": "SBC"
+        },	
+        {
             "name": "Icedemoon",
             "type": "SBC"
         },	
         {
-            "name": "Banaana",
-            "type": "SBC"
-        },	
-        {
-            "name": "Maxhello",
-            "type": "SBC"
-        },	
-        {
-            "name": "Marioskart",
+            "name": "Icemourne",
             "type": "SBC"
         },	
         {
@@ -469,17 +485,89 @@
             "type": "SBC"
         },	
         {
+            "name": "Kwaaa",
+            "type": "SBC"
+        },	
+        {
+            "name": "Lytsu",
+            "type": "SBC"
+        },	
+        {
+            "name": "Maginallll",
+            "type": "SBC"
+        },	
+        {
+            "name": "SWEQQER",
+            "type": "SBC"
+        },	
+        {
+            "name": "Aw",
+            "type": "SBC"
+        },	
+        {
+            "name": "Neuro",
+            "type": "SBC"
+        },
+		{
+            "name": "Curse",
+            "type": "SBC"
+        },	
+        {
+            "name": "Dash",
+            "type": "SBC"
+        },	
+        {
+            "name": "June",
+            "type": "SBC/RealmSlayers"
+        },	
+        {
+            "name": "Yolorific",
+            "type": "SBC"
+        },	
+        {
+            "name": "Botkiller",
+            "type": "SBC"
+        },	
+        {
+            "name": "Cloud",
+            "type": "SBC"
+        },		
+        {
+            "name": "DOKTORPUSZ",
+            "type": "SBC"
+        },	
+        {
+            "name": "Falkxb",
+            "type": "SBC"
+        },
+		{
+            "name": "GriffShaw",
+            "type": "SBC"
+        },	
+        {
             "name": "Lunaire",
             "type": "SBC"
         },	
         {
-            "name": "Paluu",
+            "name": "Marvin",
+            "type": "SBC"
+        },	
+        {
+            "name": "Maxhello",
+            "type": "SBC"
+        },	
+        {
+            "name": "Mrunibro",
+            "type": "SBC"
+        },	
+        {
+            "name": "Quickstah",
             "type": "SBC"
         },	
         {
             "name": "Tharms",
             "type": "SBC"
-        },		
+        },			
         {
             "name": "Briceblbl",
             "type": "Shatters"
@@ -490,7 +578,7 @@
         },	
         {
             "name": "Madlib",
-            "type": "Shatters"
+            "type": "Shatters/PubHalls"
         },	
         {
             "name": "Ultizero",
@@ -547,37 +635,17 @@
 		{
             "name": "CrazyHead",
             "type": "LostBoys"
-        },	
-		{
-            "name": "Asterism",
-            "type": "RealmSlayers"
-        },	
-		{
-            "name": "Dfieldalt",
-            "type": "RealmSlayers"
-        },	
-		{
-            "name": "Evenreason",
-            "type": "RealmSlayers"
-        },	
-		{
-            "name": "Sixthou",
-            "type": "RealmSlayers"
         },		
 		{
             "name": "AteBitMate",
             "type": "RealmSlayers"
-        },	
+        },					
 		{
             "name": "Miistar",
             "type": "RealmSlayers"
-        },	
+        },		
 		{
-            "name": "Madgoblin",
-            "type": "RealmSlayers"
-        },			
-		{
-            "name": "Rapti",
+            "name": "Rex",
             "type": "RealmSlayers"
         },	
 		{
@@ -585,13 +653,45 @@
             "type": "RealmSlayers"
         },	
 		{
+            "name": "Sixthou",
+            "type": "RealmSlayers"
+        },			
+		{
             "name": "TBonicustm",
+            "type": "RealmSlayers"
+        },	
+		{
+            "name": "SubServer",
+            "type": "RealmSlayers"
+        },	
+		{
+            "name": "Dfieldalt",
             "type": "RealmSlayers"
         },
 		{
-            "name": "Joeckey",
+            "name": "Rapti",
             "type": "RealmSlayers"
-        }		
+        },
+		{
+            "name": "Asterism",
+            "type": "RealmSlayers"
+        },
+		{
+            "name": "CSGOoOo",
+            "type": "RealmSlayers"
+        },
+		{
+            "name": "EvenReason",
+            "type": "RealmSlayers"
+        },
+		{
+            "name": "Jukkii",
+            "type": "RealmSlayers"
+        },
+		{
+            "name": "Madgoblin",
+            "type": "RealmSlayers"
+        }	
     ],
     "trackedItems": [
         {

@@ -585,57 +585,69 @@
             "type": "Shatters"
         },
         {
-            "name": "Puta",
+            "name": "Maekker",
             "type": "LostBoys"
-        },		
+        },	
+        {
+            "name": "NeonEnigma",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "Reficul",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "MentlFetus",
+            "type": "LostBoys"
+        },	
         {
             "name": "Acune",
             "type": "LostBoys"
-        },
+        },	
+        {
+            "name": "CrazyHead",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "MazeChris",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "TSPage",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "CHADWIN",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "FaKeUnion",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "Firetrucke",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "JimmyNitro",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "Sorichiz",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "Striive",
+            "type": "LostBoys"
+        },	
+        {
+            "name": "Puta",
+            "type": "LostBoys"
+        },	
         {
             "name": "DaemonSabe",
             "type": "LostBoys"
         },			
-		{
-            "name": "DARKFLAMER",
-            "type": "LostBoys"
-        },	
-		{
-            "name": "ImCarlos",
-            "type": "LostBoys"
-        },	
-		{
-            "name": "MazeChris",
-            "type": "LostBoys"
-        },	
-		{
-            "name": "ThatSquare",
-            "type": "LostBoys"
-        },	
-		{
-            "name": "Floof",
-            "type": "LostBoys"
-        },	
-		{
-            "name": "Nightbladw",
-            "type": "LostBoys"
-        },	
-		{
-            "name": "MeleeOnly",
-            "type": "LostBoys"
-        },		
-		{
-            "name": "Klingeris",
-            "type": "LostBoys"
-        },		
-		{
-            "name": "MazeChris",
-            "type": "LostBoys"
-        },		
-		{
-            "name": "CrazyHead",
-            "type": "LostBoys"
-        },		
 		{
             "name": "AteBitMate",
             "type": "RealmSlayers"
